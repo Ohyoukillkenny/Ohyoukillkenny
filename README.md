@@ -6,10 +6,10 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### About Me:
-I am a research scientist at the reality lab of META. I finished my PhD at Rice in programming language and compiler design. [Here](https://ohyoukillkenny.github.io/) is my personal webpage.
+I am a research scientist at META's reality lab. I finished my PhD at Rice in programming language and compiler design. [Here](https://ohyoukillkenny.github.io/) is my personal webpage.
 
 - 🔭 My current work is focused on recommendation systems and RAG for generative AI.
-- ⚡ In my free time, 🏀🏋🛌.
+- ⚡ In my free time, 🏀🏋🎮🛌.
 ---
 ### 🛠 &nbsp;Technical Skills:
 #### Programming Languages:
